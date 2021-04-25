@@ -12,11 +12,6 @@ Q | A
 **Languages I know**  | `C++, Python, HTML`
 **Languages I'm learning** | `JS, Dart`
 
-‏‏‎ ‎| ‏‏‎ ‎
---- | ---
-![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=swapnilg4u&show_icons=true&theme=radical&include_all_commits=true) | ![Swapnil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilg4u&theme=radical&layout=compact)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilg4u"></img>
 
 ## **Languages and Tools:**
 <p>
@@ -30,3 +25,18 @@ Q | A
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/github.webp" height="70">
 </p>
 
+Connect with me 👇
+<p>
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/telegram.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/whatsapp.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/linkedin.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/email.webp" height="70">
+</p>
+
+<details>
+‏‏‎ ‎| ‏‏‎ ‎
+--- | ---
+![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=swapnilg4u&show_icons=true&theme=radical&include_all_commits=true) | ![Swapnil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilg4u&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilg4u"></img>
+</details>
