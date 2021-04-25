@@ -25,8 +25,7 @@ Q | A
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/js.webp" height="70">
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" height="70">
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/vscode.webp" height="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/sublime.gif" height="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/git.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/git.gif" width="130">
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/github.webp" height="70">
 </p>
 
