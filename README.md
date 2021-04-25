@@ -10,10 +10,9 @@ Q | A
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Web, CLI`
 **Languages I know**  | `C++, Python, HTML`
-**Languages I learning** | `JS, Dart`
+**Languages I'm learning** | `JS, Dart`
 
 
- ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Swapnil's github stats](https://github-readme-stats.vercel.app/api?username=swapnilg4u&show_icons=true&theme=radical&include_all_commits=true) | ![Swapnil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilg4u&theme=radical&layout=compact)
 
