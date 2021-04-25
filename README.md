@@ -20,4 +20,6 @@ Q | A
 
 
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/html.gif" width="70">
+
 
