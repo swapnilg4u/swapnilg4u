@@ -18,8 +18,15 @@ Q | A
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilg4u"></img>
 
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/linkedin.gif" width="70">
-
+<p>
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/python.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/html.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/css.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/js.webp" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/vscode.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/sublime.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/git.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/github.gif" width="70">
+</p>
 
