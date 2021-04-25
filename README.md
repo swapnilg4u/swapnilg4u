@@ -20,13 +20,13 @@ Q | A
 
 <p>
 <img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/python.gif" height="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/html.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/css.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/js.webp" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/vscode.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/sublime.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/git.gif" width="70">
-<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/github.gif" width="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/html.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/css.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/js.webp" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/vscode.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/sublime.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/git.gif" height="70">
+<img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/github.gif" height="70">
 </p>
 
