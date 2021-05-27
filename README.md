@@ -1,5 +1,5 @@
-# Welcome to My Profile! 👋 
-![https://t.me/swapnilg4u](https://img.shields.io/badge/telegram-swapnilg4u-blue)
+# Welcome to My Github! 👋 
+![https://telegram.me/swapnilg4u](https://img.shields.io/badge/telegram-swapnilg4u-blue)
  ![https://www.github.com/swapnilg4u](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swapnilg4u/&title=Profile+Views&edge_flat=false)
 
 
