@@ -1,4 +1,4 @@
-<h1 align = 'center'> Projects by @swapnilg4u </h1>
+<h2 align = 'center'> Projects by <a href='https://github.com/swapnilg4u'> @swapnilg4u </a></h1>
 
 |  :hash:              |Projects                          |Description                         |Repo                         |
 |-----------------|-------------------------------|-----------------------------|-----------------------------|
