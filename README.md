@@ -12,7 +12,7 @@ Q | A
 **Languages I know**  | `C++, Python, HTML`
 **Languages I'm learning** | `JS, Dart`
 
-<sup><kbd>***[Click here](https://github.com/swapnilg4u/swapnilg4u/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
+<sup><kbd>***[Click here](https://github.com/swapnilg4u/swapnilg4u/blob/main/PROJECTS.md)***</kbd> *to view a list of my projects.</sup>* <br>
 
 ## **Languages and Tools:**
 <p>
