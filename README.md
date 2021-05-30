@@ -33,6 +33,8 @@ Connect with me 👇
 <a href="https://www.linkedin.com/in/swapnilg4u/"><img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/linkedin.gif" height="70"></a>
 </p>
 
+I just made a telegram channel for my projects. If you wanna join 👉 [SG Projects](https://telegram.me/sg_projects)
+
 <details>
 
  <summary> My Github Stats</summary>
