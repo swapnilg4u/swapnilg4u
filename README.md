@@ -9,7 +9,7 @@ Q | A
 **My Machine**  | `Asus R558U`
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Web, CLI`
-**Languages I know**  | `C++, Python, HTML`
+**Languages I know**  | `Python, HTML, CSS, C++`
 **Languages I'm learning** | `JS, Dart`
 
 <sup><kbd>***[Click here](https://github.com/swapnilg4u/swapnilg4u/blob/main/PROJECTS.md)***</kbd> *to view a list of my projects.</sup>* <br>
